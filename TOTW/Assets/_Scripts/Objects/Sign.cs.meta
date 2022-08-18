@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bf84e2808d8227645b0c67ec697eb667
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - chatBox: {instanceID: 0}
+  - chatText: {instanceID: 0}
+  - contextClueSwitch: {fileID: 11400000, guid: a0467af963466cc4089c04d6e84ec2e8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

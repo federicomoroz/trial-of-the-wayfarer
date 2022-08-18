@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 12c058e6ca45bcf4f846dac2de922553
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - InitialPosition: {instanceID: 0}
+  - needKeyCounter: {fileID: 11400000, guid: 45a721935c6584446b476ab966d3f428, type: 2}
+  - noKeyCounter: {fileID: 11400000, guid: e336d97ff1683814abbc11617c71f930, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

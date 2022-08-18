@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 0640704a800178f4daa3d5143d2cb80a
+  - enabled: 1
+    path: Assets/Scenes/Test.unity
+    guid: 3f9c338851f596f4db49c355c54ac89d
+  - enabled: 1
+    path: Assets/Scenes/MulberryTown.unity
+    guid: ebc9d27dc14614b4184f067a8f1f58e3
+  - enabled: 1
+    path: Assets/Scenes/Interiors_Mulberry.unity
+    guid: 4d045b19d10b2a94fbbd341ecd460cc6
+  - enabled: 1
+    path: Assets/Scenes/CloudberryWoods.unity
+    guid: 8da7f38011c598745b5c1fdf56ea3494
+  - enabled: 1
+    path: Assets/Scenes/RaspberryCave.unity
+    guid: 9634bbc38c5a9f140bce7e454c2f0bd4
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: b219d8508771ac44f806a43234cdfbb2
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: b7087c04ec8ba3a45a7c1ab684eec4fb
+  m_configObjects: {}

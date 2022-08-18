@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b2ede33946ddfc443882f4f67555dedf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fadeIn: {fileID: 11400000, guid: 4c031ab5a8d119a48bfd1d753d806d94, type: 2}
+  - fadeOut: {fileID: 11400000, guid: d0f96fef7821d6543a2f55b60f81cb67, type: 2}
+  - transitionBegin: {fileID: 11400000, guid: 41ec15c43cb7daa448458eb3111f8a94, type: 2}
+  - transitionEnd: {fileID: 11400000, guid: b583cfb3920e0d146a7f85529b8a597c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

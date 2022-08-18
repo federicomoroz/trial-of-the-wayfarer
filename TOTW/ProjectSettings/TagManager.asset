@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - stageHazard
+  - Wall
+  - playerProjectile
+  - Foe
+  - foeAttack
+  - breakableObject
+  - FxTemporaire
+  - PowerUp
+  - Healer
+  - RoomText
+  - tallGrass
+  - Void
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Player
+  - Player Projectile
+  - Foe
+  - Foe Projectile
+  - Interactible
+  - Environment
+  - Vfx
+  - Void
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 64247725
+    locked: 0
+  - name: Environment
+    uniqueID: 703304991
+    locked: 0
+  - name: Game
+    uniqueID: 4233468571
+    locked: 0
+  - name: Vfx
+    uniqueID: 527599395
+    locked: 0
+  - name: UI
+    uniqueID: 2123141667
+    locked: 0
